@@ -1,0 +1,12 @@
+C:\Users\13f\Desktop\Rename v1.0\bin\Debug\Rename v1.0.exe.config
+C:\Users\13f\Desktop\Rename v1.0\bin\Debug\Rename v1.0.exe
+C:\Users\13f\Desktop\Rename v1.0\bin\Debug\Rename v1.0.pdb
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename v1.0.csprojResolveAssemblyReference.cache
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename_v1._0.Form1.resources
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename_v1._0.Properties.Resources.resources
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename v1.0.csproj.GenerateResource.Cache
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename v1.0.exe
+C:\Users\13f\Desktop\Rename v1.0\obj\Debug\Rename v1.0.pdb
+C:\Users\13f\Desktop\Hoc\Hoc 2-1\OOP\Rename v1.0\bin\Debug\Rename v1.0.exe.config
+C:\Users\13f\Desktop\Hoc\Hoc 2-1\OOP\Rename v1.0\obj\Debug\Rename v1.0.exe
+C:\Users\13f\Desktop\Hoc\Hoc 2-1\OOP\Rename v1.0\obj\Debug\Rename v1.0.pdb
